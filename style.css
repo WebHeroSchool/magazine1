@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap');
+
+.header {
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+
+/* * {
+	font-family: 'Montserrat Alternates', sans-serif;
+}*/
+
+.section__table {
+	vertical-align: top;
+}
+.section__table__subtitle {
+	background: green;
+	color: white;
+}
